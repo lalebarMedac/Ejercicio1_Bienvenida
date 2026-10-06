@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_primario_curso">#1976D2</color>
+    <color name="color_destacado">#D32F2F</color>
+</resources>

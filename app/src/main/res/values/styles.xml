@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EstiloTituloPrincipal">
+        <item name="android:textSize">24sp</item>
+        <item name="android:color">@color/color_primario_curso</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
